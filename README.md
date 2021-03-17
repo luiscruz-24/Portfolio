@@ -28,6 +28,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 Portfolio: <https://luiscruz-24.github.io/Portfolio/>
 
-### Personal Portfolio - Luis Cruz and
+### Personal Portfolio - Luis Cruz
 
 ![Personal Portfolio](./assets/images/Captura.JPG)
